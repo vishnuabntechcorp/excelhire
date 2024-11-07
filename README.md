@@ -12,3 +12,10 @@ chmod +x install_jenkins.sh
 
 # Run the script to install Jenkins
 ./install_jenkins.shserdate script
+
+
+
+
+
+
+
