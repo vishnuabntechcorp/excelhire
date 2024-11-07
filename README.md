@@ -15,6 +15,11 @@ chmod +x install_jenkins.sh
 
 
 
+![image](https://github.com/user-attachments/assets/47adf182-0baa-44d0-b65c-86a49d095f70)
+
+
+
+
 
 
 
